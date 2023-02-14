@@ -130,5 +130,5 @@ dmypy.json
 
 # Development environment files
 nearest-prime.code-workspace
-demo-env/
+#demo-env/
 components/load-gen/.mvn/wrapper/maven-wrapper.jar
